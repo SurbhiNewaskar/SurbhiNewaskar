@@ -1,5 +1,5 @@
 Hi there 👋 I'm Surbhi!
-I am a curious learner exploring tech, design, and creativity side-by-side.
+A curious learner exploring tech, design, and creativity side-by-side.
 
 - I’m currently working on:  
   Not on a project right now, but my notebook is full of ideas I'm excited to build soon!
