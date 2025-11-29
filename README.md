@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋 I'm Surbhi!
+I am a curious learner exploring tech, design, and creativity side-by-side.
 
-<!--
-**SurbhiNewaskar/SurbhiNewaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on:  
+  Not on a project right now, but my notebook is full of ideas I'm excited to build soon!
 
-Here are some ideas to get you started:
+-  I’m currently learning:  
+  Java,DSA, HTML, CSS, and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I’m looking to collaborate on:  
+  Beginner-friendly creative projects, small games, or fun web ideas
+
+-  Ask me about:  
+  Games, doodling, K-dramas, K-pop, or anything fun 
+
+-  Pronouns:  
+  She/Her
+
+-  Fun fact:  
+  I dance a lot, love doodling cute art, enjoy playing games
