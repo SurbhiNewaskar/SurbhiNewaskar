@@ -11,10 +11,9 @@ A curious learner exploring tech, design, and creativity side-by-side.
   Beginner-friendly creative projects, small games, or fun web ideas
 
 -  Ask me about:  
-  Games, doodling, K-dramas, K-pop, or anything fun 
+  Video Games, doodling, K-dramas, K-pop, or anything fun 
 
 -  Pronouns:  
   She/Her
 
--  Fun fact:  
-  I dance a lot, love doodling cute art, enjoy playing games
+
